@@ -24,7 +24,7 @@ I plan to make an Airport Management System Database that will transform the way
 
 The graph below is a visual representation of the problem I am aiming to solve. In the graph, we are comparing the distance in miles compared to time in hours it takes for three modes of transportation to go. The time starts from when you leave your house. As we see, cars start out the fastest but are overtaken by trains within an hour of travel. However, it takes nearly four hours for airplanes to overtake cars, despite how planes move over eight times as fast as cars. This is due to the fact that you have to travel far to even reach an airport, and it can take several hours to get your ticket and get through security to board the plane.
 
-![Graph Showing Relationship between different modes of transportation and time.](./res/graph.png)
+![Graph Showing Relationship between different modes of transportation and time.](./resource/graph.png)
 
 To solve this problem, I will design the system to minimize the time it takes for users from leaving their house to boarding the plane. While the system cannot start as quickly as cars (since users do not live at the airport), it can be made closer to that of trains, which are faster due to little to no security checks at stations. In the U.S., TSA PreCheck allows precheck holders to skip the security check, and my system will make this standard for all users. Additionally, I will implement automated check-in machines for both domestic and international flights.
 
@@ -166,7 +166,7 @@ Mike plans a family vacation to visit relatives. He uses the Airport Management 
 
 ## 5. Entity Relationship Diagram (ERD)
 
-![Relationship Diagram Image](./res/ERD.png)
+![Relationship Diagram Image](./resource/ERD.png)
 
 ## 6. Entity Set Description
 
@@ -363,7 +363,7 @@ Mike plans a family vacation to visit relatives. He uses the Airport Management 
 
 ## 7. Enhanced Entity-Relationship Diagram (EER)
 
-![Enhanced Entity-Relationship Diagram Image](./res/eer.png)
+![Enhanced Entity-Relationship Diagram Image](./resource/eer.png)
 
 ## 8. Normalization Techniques Used
 
